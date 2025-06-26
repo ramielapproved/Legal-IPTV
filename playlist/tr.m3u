@@ -1,0 +1,60 @@
+#EXTM3U
+
+# Turkish TV Channels
+
+#EXTINF:-1 tvg-id="trt1.trt" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png" group-title="Türk Kanalları",TRT 1
+https://trt1canli1.akamaized.net/hls/live/2005402/trt1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atv.com.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Atv_logo.svg" group-title="Türk Kanalları",ATV
+https://atvcanli.akamaized.net/hls/live/2005403/atv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kanald.com.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Kanal_D_Logo_2019.svg" group-title="Türk Kanalları",Kanal D
+https://kanaldcanli.akamaized.net/hls/live/2005404/kanald/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trt2.trt" tvg-name="TRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TRT_2_logo.svg" group-title="Türk Kanalları",TRT 2
+https://trt2canli.akamaized.net/hls/live/2005405/trt2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fox.com.tr" tvg-name="FOX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/FOX_Turkey_logo.svg" group-title="Türk Kanalları",FOX TV
+https://foxcanli.akamaized.net/hls/live/2005407/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="showtv.com.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Show_TV_logo.svg" group-title="Türk Kanalları",Show TV
+https://showtvcanli.akamaized.net/hls/live/2005408/showtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="power.com.tr" tvg-name="Power TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Power_TV_Logo.svg" group-title="Türk Kanalları",Power TV
+https://powertvcanli.akamaized.net/hls/live/2005406/powertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.trt" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TRT_Belgesel_Logo.svg" group-title="Türk Kanalları",TRT Belgesel
+https://trtbelgeselcanli.akamaized.net/hls/live/2005409/trtbelgesel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trtcocuk.trt" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/TRT_Cocuk_Logo.svg" group-title="Türk Kanalları",TRT Çocuk
+https://trtcocukcanli.akamaized.net/hls/live/2005410/trtcocuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv.com.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/NTV_logo.svg" group-title="Türk Kanalları",NTV
+https://ntvcanli.akamaized.net/hls/live/2005411/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnnturk.com" tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CNN_Turk_Logo.svg" group-title="Türk Kanalları",CNN Türk
+https://cnnturkcanli.akamaized.net/hls/live/2005412/cnnturk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kralmuzik.com" tvg-name="Kral TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Kral_TV_logo.svg" group-title="Türk Kanalları",Kral TV
+https://kralcanli.akamaized.net/hls/live/2005413/kral/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kralpop.com" tvg-name="Kral Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kral_Pop_logo.svg" group-title="Türk Kanalları",Kral Pop
+https://kralpopcanli.akamaized.net/hls/live/2005414/kralpop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bestfm.com.tr" tvg-name="Best FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Best_FM_logo.svg" group-title="Radyo Kanalları",Best FM
+http://radyo.bestfm.com.tr:80/;stream/1
+
+#EXTINF:-1 tvg-id="powerfm.com.tr" tvg-name="Power FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Power_FM_Logo.svg" group-title="Radyo Kanalları",Power FM
+http://powerfm.listenpowerapp.com:80/;stream/1
+
+#EXTINF:-1 tvg-id="slowturk.com" tvg-name="Slow Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Slow_Turk_Logo.svg" group-title="Radyo Kanalları",Slow Türk
+http://slowturk.radyotvonline.com:80/;stream/1
+
+#EXTINF:-1 tvg-id="trtfm.trt" tvg-name="TRT FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TRT_FM_logo.svg" group-title="Radyo Kanalları",TRT FM
+https://trtfmcanli.akamaized.net/hls/live/2005415/trtfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntvradyo.com" tvg-name="NTV Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/NTV_Radyo_logo.svg" group-title="Radyo Kanalları",NTV Radyo
+http://ntvradyo.radyotvonline.com:80/;stream/1
+
+#EXTINF:-1 tvg-id="kralpopfm.com" tvg-name="Kral Pop FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Kral_Pop_FM_logo.svg" group-title="Radyo Kanalları",Kral Pop FM
+http://kralpopfm.radyotvonline.com:80/;stream/1
